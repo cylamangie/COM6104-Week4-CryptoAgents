@@ -50,4 +50,20 @@ This lab showcases these capabilities through practical exercises.
 ```bash
 pip install -r requirements.txt
 python week4_lab.py
+```
+For MCP server/client:
+```bash
+python p253572_bitcoin_mcp_agent.py   # start server
+python p253572_agent_using_mcp.py     # run client agent
+```
 
+## 📚 Course Context
+Completed as part of COM6104 – Topics in Data Science and Artificial Intelligence at The Hang Seng University of Hong Kong.
+
+## 💡 Reflection
+This lab helped me understand how conversational AI can integrate with external APIs, use LangChain MCP for tool orchestration, and follow structured workflows.
+It highlights the importance of combining real-time data access with workflow logic to build reliable AI agents.
+
+## 📚 Acknowledgements
+Parts of this code were adapted from COM6104 lab materials provided by the instructor.
+This repository is licensed under the MIT License, which permits reuse and modification with proper attribution.
