@@ -1,0 +1,6 @@
+ollama
+requests
+langchain
+langgraph
+fastmcp
+langchain_mcp_adapters
